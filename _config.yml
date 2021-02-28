@@ -16,11 +16,13 @@
 title: Alexander Zawadzki
 email: alexander.zawadzki+gitpage@gmail.com
 description: >- # ignore newlines until "baseurl:"
-  This is AZ's home on the web: blog, reading list, photos, etc.
+  AZ's home on the web: blog, reading list, photos, etc.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 3sch3r
-github_username:  zadacka
+
+footer-links:
+	twitter: 3sch3r
+	github:  zadacka
 
 # Build settings
 markdown: kramdown
