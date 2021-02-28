@@ -22,13 +22,15 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 footer-links:
   twitter: 3sch3r
-  github:  zadacka
+  github: zadacka
+
 
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
