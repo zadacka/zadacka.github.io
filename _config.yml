@@ -32,6 +32,11 @@ plugins:
   - jekyll-feed
 
 
+# Disabling the "View on GitHub" button
+github:
+  is_project_page: false
+
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
