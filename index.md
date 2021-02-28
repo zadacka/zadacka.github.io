@@ -6,11 +6,6 @@ type: homepage
 class: first
 ---
 
-This is a Jekyll statically generated webpage/blog for Alex.
-
-* TOC
-{:toc}
-
 ## Getting Started
 
 I got started.
