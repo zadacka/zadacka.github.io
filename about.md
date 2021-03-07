@@ -4,12 +4,12 @@ title: About
 featured_image: /assets/images/pages/about.jpg
 ---
 
-Charles Lavoie is a senior developer from Vilnius, Lithuania. After graduating from The College with a degree in **Computer Science**, he worked for three small web shops where he honed his development skills and love for JavaScript.
+Alexander Zawazdki is a developer and human based in London, UK. He studied Materials, Economics and Management at Oxford and Computer Science at Imperial College London (MSc). 
 
-His work has been recognized by Communication Arts, IBM, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. **Net** magazine named him a person to watch in 2018.
+He works with a great group of people to develop performant software. 
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+>The way to get started is to quit talking and begin doing. <cite>- Walt Disney -</cite>
 
-As a hobby, Daniel authors the most influential JavaScript blog in Lithuania with over 100,000 page views a month. He lives in Vilnius with his beautiful wife, two boys and one girl.
+As a hobby, Alex likes buying books on Amazon (and sometimes even reading them).
 
 *Thank You for reading!*

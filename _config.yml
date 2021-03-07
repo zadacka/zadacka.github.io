@@ -1,15 +1,15 @@
 # Site setings
-name: 'Royce'
-description: 'Web Developer'
+name: 'zadacka.github.io'
+description: "AZ's home on the Web."
 meta_description: 'Jekyll template, minimal style, perfect for bloggers.'
 logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
   image: 'authorimage.jpg'
-  greetings: "Hi there! My name is Charles Lavoie. I'm a freelance web developer, author and speaker based in Montreal, Canada. It’s nice to meet you."
+  greetings: "Hello, I am Alex - a professional software developer and amateur tinkerer based in London, UK. It’s nice to meet you."
 favicon: 'assets/images/favicon.ico'
 baseurl: 
-production_url: https://royce.netlify.com/
+production_url: https://zadacka.github.io/
 disqus: 'justgoodthemes'
 mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
 # Add your GA Tracking Id
@@ -21,17 +21,17 @@ contact_page_description: "Horace theme comes with a contact form built-in. You 
 thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
 
 # Social links
-twitter: 'justgoodthemes'
-facebook: 'username'
-github: 'justgoodthemes'
-codepen: 'username'
-dribbble: 'username'
-medium: '@username'
-instagram: 'username'
-pinterest: 'username'
-linkedin: 'username'
-producthunt: '@username'
-quora: 'username'
+twitter: '3sch3r'
+facebook: 'alexander.zawadzki'
+github: 'zadacka'
+linkedin: 'alexanderzawadzki'
+#codepen: 'username'
+#dribbble: 'username'
+#medium: '@username'
+#instagram: 'username'
+#pinterest: 'username'
+#producthunt: '@username'
+#quora: 'username'
 
 # Navigation
 navigation:
@@ -39,8 +39,10 @@ navigation:
     url: /
   - text: About
     url: /about
-  - text: Style Guide
-    url: /style-guide
+  - text: Reading List
+    url: /reading
+#  - text: Style Guide
+#    url: /style-guide
   - text: Contact Me
     url: /contact
   - text: Search
