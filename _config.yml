@@ -15,11 +15,6 @@ mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab160
 # Add your GA Tracking Id
 ga_analytics: 
 
-# Contact form setings
-email: youremail@email.com
-contact_page_description: "Horace theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want."
-thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
-
 # Social links
 twitter: '3sch3r'
 facebook: 'alexander.zawadzki'
