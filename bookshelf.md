@@ -16,9 +16,12 @@ Fun to read for a few chapters (confession: I skimmed a few).
 Reads like it should be spoken in a heavy Chicago Mob accent.
 Morals: don't trust tips, use stop-loss orders, test and follow the market. Read 2021-03-07.
 
+#### [Hunter's Oath (2018) by Glynn Stewart](https://www.amazon.co.uk/dp/B07D6317MG/ref=cm_sw_em_r_mt_dp_E0924S4JN647PV85RKGY)
+Changeling Blood series book 2. Canada based urban fantasy with a not unlikeable protagonist and growing cast of main characters. Serious power imbalances and a lot of problems that would be solved by people talking to each other. Read 2021-03-12.
 
 
 <span>Library photo by <a href="https://unsplash.com/@alfonsmc10?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">
 Alfons Morales</a>
 on <a href="https://unsplash.com/s/photos/library?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">
 Unsplash</a></span>
+
