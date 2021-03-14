@@ -19,6 +19,8 @@ Morals: don't trust tips, use stop-loss orders, test and follow the market. Read
 #### [Hunter's Oath (2018) by Glynn Stewart](https://www.amazon.co.uk/dp/B07D6317MG/ref=cm_sw_em_r_mt_dp_E0924S4JN647PV85RKGY)
 Changeling Blood series book 2. Canada based urban fantasy with a not unlikeable protagonist and growing cast of main characters. Serious power imbalances and a lot of problems that would be solved by people talking to each other. Read 2021-03-12.
 
+#### [The Sea is My Brother (2011) by John Kerouac](https://amzn.to/3ezHmgf)
+Lost (unpublished) novel, published long after Kerouac's death in 1969, following a sailor in the Merchant Navy and an Assistant Professor from Columbia who enlists with him. The usual Kerouac themes of drinking, and jazz, and idealistic communism in the US. Heavily based on the things Kerouac saw and people who he met when he was in the Merchant Navy himself.
 
 <span>Library photo by <a href="https://unsplash.com/@alfonsmc10?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">
 Alfons Morales</a>
