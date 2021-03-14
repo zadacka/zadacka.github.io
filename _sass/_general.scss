@@ -620,6 +620,12 @@ img {
     animation-name: fadeInDown;
 }
 
+.delay_025s {
+    -webkit-animation-delay: 0.25s;
+    -moz-animation-delay: 0.25s;
+    animation-delay: 0.25s;
+}
+
 .delay_05s {
     -webkit-animation-delay: 0.5s;
     -moz-animation-delay: 0.5s;
