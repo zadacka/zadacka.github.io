@@ -10,7 +10,8 @@ author:
 favicon: 'assets/images/favicon.ico'
 baseurl: 
 production_url: https://zadacka.github.io/
-disqus: 'https-zadacka-github-io'
+# disable disqus because the adverts are too awful to make the free version worthwhile
+# disqus: 'https-zadacka-github-io'
 mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
 # Add your GA Tracking Id
 ga_analytics: 
