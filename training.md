@@ -8,8 +8,10 @@ As with many people in 'knowledge work', I'm mildly obsessed with continuing edu
 
 
 #### Michael Kerrisk's Linux Programming Interface Course
+#### David Beazley's Compilers Course
 #### Simon Brown's Software Architecture for Developers Course
 #### PyCon 2017 in Portland, Oregon
+#### Strata 2018 in London
 #### Bob Martin's 'Pair Programming' Course 
 #### Faculty Data Science - first Cohort
 #### Imperial College MSci Computing Science 
