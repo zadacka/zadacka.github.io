@@ -37,6 +37,9 @@ navigation:
     url: /about
   - text: Bookshelf
     url: /bookshelf
+  - text: Training
+    url: /training
+
   - text: Contact
     url: /contact
   - text: Search
