@@ -34,6 +34,12 @@ Free on kindle unlimited! Skimmed rather than 'read' sections of these because .
 #### [Spook Country (2009) by William Gibson](https://amzn.to/3w2D7Af)
 One of the 'Blue Ant' series (Pattern Recognition, Spook Country, Zero History), with the usual mix of drugs, advertising, and rock'n'roll. Pretty surreal and yet perfecly plausible. (re?)Read 2021-0-26.
 
+#### [The Long Way Down (2014) by Craig Schaefer](https://amzn.to/3fZVxvK)
+Fun 'detective/magician/vigilante' in Chicago where the protagonist is a hard drinking rougue who sometimes breaks the law in order to do the right thing. Every bit as cliched and fun as it sounds.
+
+#### [Respawn, Books 1-6(2018) by Arthur Stone](https://amzn.to/39YUAAm)
+Okay, this was another LitRPG series. This is set in the world of STYXX and has the same sort of awkward / brusque interactions as other Arthur Stone books - see above. Maybe echos of the author'sbackground (from the Ukraine, worked as a geologist) informing how he writes his characters? Lots of beer and shooting. Kind of like WestWorld with zombies.
+
 
 <span>Library photo by <a href="https://unsplash.com/@alfonsmc10?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">
 Alfons Morales</a>
