@@ -28,7 +28,7 @@ Apocalyptic zombie story where a grid of sectors swap in and out of alternate di
 #### [S.T.Y.X. Hivecat (2018) by Arthur Stone](https://www.amazon.co.uk/dp/B07DVGF478/ref=cm_sw_em_r_mt_dp_7XRB8MN7T91WS5AT1KZF)
 The second in the S.T.Y.X series, with further (mis)adventures of the protagonist. Read 2021-03-19.
 
-#### [Binding Words 1-6 (2018) by Daniel Schinhofen](https://www.amazon.co.uk/gp/kindle/series/B08S78V7RJ?ie=UTF8&ref_=dbs_dp_wit_sb_tkin)
+#### [Binding Words, Books 1-6 (2018) by Daniel Schinhofen](https://www.amazon.co.uk/gp/kindle/series/B08S78V7RJ?ie=UTF8&ref_=dbs_dp_wit_sb_tkin)
 Free on kindle unlimited! Skimmed rather than 'read' sections of these because ... ugh. Interesting premise of "person from Earth thrown into a fantasy world" raising questions about what knowledge from the 21st century might do in a medieval setting. The protagonist decides to make hairclips. Arguably still better than 'Off to Be The Wizard' where the protagonist is obsessed with cling-film. Read 2021-03-24
 
 #### [Spook Country (2009) by William Gibson](https://amzn.to/3w2D7Af)
