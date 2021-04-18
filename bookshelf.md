@@ -47,8 +47,8 @@ Given that I like Conroe as an author ... having read everything in the Demon Di
 #### [The Wraith, Books 1-3 (2018) by Jeffery Haskell](https://amzn.to/3eegxfM)
 Superhero series by Haskell, who (it eventually dawned on me due to decreasingly subtle hints in the book) also wrote the 'Arsenal' series. Easy to read regular-person-gets-superpowers-and-goes-on-vigilante-spree story, where the super powers are literally the most plausible part about the protagonist. It looks like there have been more books in the 'Arsenal' series since I last looked, and the next book in the Wraith series looks to be a crossover (!) so it is highly likely that I'll make some popcorn and keep going with this set. Thank you, Kindle Unlimited. Read 2021-04-16.
 
-
-
+#### [Heart of a Dog (1987) by Mikhail Bulgakov]https://amzn.to/3al7Qzh)
+Bulgakov also wrote 'The Master and Margarita' and 'Fatality Eggs'. Heart of a Dog was recommended to me by a Russian colleague - from our conversation I gathered that it was pretty well known in Russia and maybe well known internationally, though I hadn't heard of it before. Interesting story in which a Professor and Doctor operates on a stray dog, who then begins to take on increasingly human characteristics. Strange, dramatic, surreal, and likely dangerously anti-communist for the time in which it was written! Read 2021-04-17.
 
 <span>Library photo by <a href="https://unsplash.com/@alfonsmc10?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">
 Alfons Morales</a>
