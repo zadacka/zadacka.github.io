@@ -50,6 +50,25 @@ Superhero series by Haskell, who (it eventually dawned on me due to decreasingly
 #### [Heart of a Dog (1987) by Mikhail Bulgakov](https://amzn.to/3al7Qzh)
 Bulgakov also wrote 'The Master and Margarita' and 'Fatality Eggs'. Heart of a Dog was recommended to me by a Russian colleague - from our conversation I gathered that it was pretty well known in Russia and maybe well known internationally, though I hadn't heard of it before. Interesting story in which a Professor and Doctor operates on a stray dog, who then begins to take on increasingly human characteristics. Strange, dramatic, surreal, and likely dangerously anti-communist for the time in which it was written! Read 2021-04-17.
 
+
+#### [Heart of a Dog (1987) by Mikhail Bulgakov](https://amzn.to/3al7Qzh)
+Bulgakov also wrote 'The Master and Margarita' and 'Fatality Eggs'. Heart of a Dog was recommended to me by a Russian colleague - from our conversation I gathered that it was pretty well known in Russia and maybe well known internationally, though I hadn't heard of it before. Interesting story in which a Professor and Doctor operates on a stray dog, who then begins to take on increasingly human characteristics. Strange, dramatic, surreal, and likely dangerously anti-communist for the time in which it was written! Read 2021-04-17.
+
+
+#### [Ultimate Arsenal, Full Metal Superhero Book 9 (2020) by Jeffery Haskell](https://amzn.to/2QOhofF)
+Another Superhero series by Haskell, which I wanted to finish after reading 'The Wraith' which had some crossover. Massively over the top, kind of fun, good closure. Read 2021-04-23.
+
+
+#### [Inflame, Completionist Chronicles Book 6 (2020) by Dakota Krout](https://amzn.to/3ubv9n9)
+Really bizarre turn of events from Dakota Krout with a mixture of 'bro' culture, fantasy, and LitRPG in his own strange style. Silly, and funny like the rest of the series. Read 2021-04-27.
+
+
+#### [Sign of the Dragon, Tatsu Yamada Book 1 (2021) by Niall Teasdale](https://amzn.to/3tdjVgu)
+Maybe the third series by Teasdale - and there are definitely similarities between them. This one is set in a post-apocalyptic Chiba, Japan. And follows our protagonist who is, as is traditional from Teasdale, a strikingly attractive cyborg with a comples past. Definite echos of William Gibson (in a good way). Read 2021-04-30.
+
+## May
+... maybe some non-Kindle unlimited trashy fiction in May?
+
 <span>Library photo by <a href="https://unsplash.com/@alfonsmc10?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">
 Alfons Morales</a>
 on <a href="https://unsplash.com/s/photos/library?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">
