@@ -67,7 +67,17 @@ Really bizarre turn of events from Dakota Krout with a mixture of 'bro' culture,
 Maybe the third series by Teasdale - and there are definitely similarities between them. This one is set in a post-apocalyptic Chiba, Japan. And follows our protagonist who is, as is traditional from Teasdale, a strikingly attractive cyborg with a comples past. Definite echos of William Gibson (in a good way). Read 2021-04-30.
 
 ## May
-... maybe some non-Kindle unlimited trashy fiction in May?
+#### [Expeditionary Force, Books 1-12 (2021) by  Craig Alanson](https://amzn.to/3q2PF8f)
+Most of May was the 'Expeditionary Force' series - they're pretty hefty books / audiobooks. I tried to string them out to listen to when running, but ended up binging them pretty badly. The series follows 'Joe Bishop', a human soldier who gets swept up into classic SciFi nonsense and ends up marauding across the galaxy with a sarcastic AI buddy. Good natured nonsense spread across many thousands of pages. The Audible narrator is R.C. Bray who also narrated 'The Martian' - so excellent listening material. Read in May, last book finished on 2021-06-17.
+
+## June
+#### [Alpha Zero, Books 1-2 (2021) by  Arthur Stone](https://amzn.to/3gAal4h)
+Some more fantasy / LitRPG from Arthur Stone (Respawn, and Weirdist Noob series). Fun nonsense. The books follow a protagonist who starts off as a weakling and, through a random series of quirks, quickly gains power to become a formidable power. Read 2021-06-12.
+
+... maybe some non-Kindle unlimited trashy fiction in July?
+
+
+
 
 <span>Library photo by <a href="https://unsplash.com/@alfonsmc10?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">
 Alfons Morales</a>
