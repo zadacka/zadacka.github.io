@@ -40,3 +40,19 @@ Okay ... so let's How about getting OmniFocus items to sync across to google? No
  * plan a family get-together -> OmniFocus item(s) with no 'hard' deadline
  
  So ... *Forget reminders. Reminders are now dead to me.* Long live Tasks. Goals are YAGNI for me right now. Ignore Goals too. OmniFocus items will need to be manually sync'ed to some form of calendar thing if/when I get there. 
+ 
+ # Google Calendar Default ... What The Fudge?
+ 
+Google apparently likes to use the Principle of Most Surprise.
+* Google Calendar (used via Chrome) shows my calendar called 'Vacation'
+* Google Calendar (iOS App) shows my 'Vacation' calendar as 'Events'
+
+The default calendar is *always* 'Vacation'. It cannot be changed. Ever. Advice online about 'your default calendar is the last one that you used' is no longer correct. Current best advice is to export / rename / import in order to switch 'default' calendar (source: [calendar.com](https://www.calendar.com/blog/how-do-i-change-my-default-calendar-in-google-calendar/)). 
+
+Like ... seriously guys? If you wanted to chnage a lightbulb, could you really believe that the best way to do so would be to KNOCK DOWN THE WHOLE HOUSE, move to somewhere with a working light bulb, and then re-build the house around it? 
+
+Two major issues here:
+1. This stuff is *so hidden*. The calendar names are different in different Google Apps (via Chrome and via iOS). The 'Events' name is kinda more true to the special nature of the Default calendar. So call it Default everywhere! And have a clear line of text in the settings saying that you can't change the default!!
+2. The ability to change default calendar seems really, really, basic. And it used to be there, and it went away. 
+
+Anyhow. Surprise! That's another hour of my life that I'm not gonna get back. Whenever the next person at work asks how we can learn to run the company 'more like google', I'm gonna have to smile and try really hard TO SCREAM ONLY INSIDE MY HEAD and not out loud.
