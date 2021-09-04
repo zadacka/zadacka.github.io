@@ -76,7 +76,12 @@ Some more fantasy / LitRPG from Arthur Stone (Respawn, and Weirdist Noob series)
 
 ... maybe some non-Kindle unlimited trashy fiction in July?
 
+## August
 
+## September
+
+#### [Pragmatic Thinking and Learning: Refactor Your Wetware (2008) by Andy Hunt](https://amzn.to/3yEiJWc)
+One of the Pragmatic Programmer series by Andy Hunt, the author of the original Pragmatic Programmer. Good book with simple(ish) and actionable content - pitched just right for where I am right now. The penultimate chapter was particularly good: how to manage the cost of context switches. I should make an action plan based on this and actually *do* some of the things here. 
 
 
 <span>Library photo by <a href="https://unsplash.com/@alfonsmc10?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">
