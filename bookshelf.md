@@ -83,6 +83,20 @@ Some more fantasy / LitRPG from Arthur Stone (Respawn, and Weirdist Noob series)
 #### [Pragmatic Thinking and Learning: Refactor Your Wetware (2008) by Andy Hunt](https://amzn.to/3yEiJWc)
 One of the Pragmatic Programmer series by Andy Hunt, the author of the original Pragmatic Programmer. Good book with simple(ish) and actionable content - pitched just right for where I am right now. The penultimate chapter was particularly good: how to manage the cost of context switches. I should make an action plan based on this and actually *do* some of the things here. 
 
+# 2023
+Oh my goodness - a year with no books? Say it ain't so!
+
+# 2024
+## December
+#### [Python for Dummies (2006) by Stef Maruch](https://www.amazon.co.uk/Python-Dummies-Stef-Maruch/dp/0471778648)
+Learned a few things! It was funny reading something where the 'new' version of Python was 2.5 (!), and the differences were notable. 
+
+#### [Haruki Murakami Manga Stories 1 (2023) by Haruki Murakami](https://www.amazon.co.uk/Haruki-Murakami-Manga-Stories-Super-Frog-ebook/dp/B0BZQ5C6X3)
+Mum got me this from Truro library, so I felt obliged to read it. Really strange stories with really strange illustrations. Four short stories: Super Frog, The Seventh Man, Birthday Girl, Where I'm Likely to Find It. They each felt strangely deep and also anticlimatic - each finishes without a traditional climax/reveal/solve. 
+
+#### [The Wim Hof Method (2020) by Haruki Murakami](https://www.amazon.co.uk/Wim-Hof-Method-Potential-Transcend/dp/1846046297)
+Started... borrowing this from Ma and Pa to read over Xmas.
+
 
 <span>Library photo by <a href="https://unsplash.com/@alfonsmc10?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">
 Alfons Morales</a>
